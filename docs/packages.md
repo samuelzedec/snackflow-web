@@ -57,6 +57,14 @@ Ferramentas para desenvolvimento e qualidade de código.
 | `@types/node` | ^20 | Definições TypeScript para Node.js |
 | `@types/react` | ^19 | Definições TypeScript para React |
 | `@types/react-dom` | ^19 | Definições TypeScript para React DOM |
+| `@eslint/eslintrc` | ^3.3.1 | Configuração legada do ESLint para compatibilidade |
+| `@typescript-eslint/eslint-plugin` | ^8.38.0 | Plugin ESLint para regras específicas do TypeScript |
+| `@typescript-eslint/parser` | ^8.38.0 | Parser ESLint para código TypeScript |
+| `eslint` | ^9.32.0 | Linter para identificação de problemas no código |
+| `eslint-config-next` | ^15.4.4 | Configuração ESLint otimizada para Next.js |
+| `eslint-config-prettier` | ^10.1.8 | Desabilita regras ESLint conflitantes com Prettier |
+| `eslint-plugin-prettier` | ^5.5.3 | Executa Prettier como regra do ESLint |
+| `prettier` | ^3.6.2 | Formatador de código automático |
 
 ---
 
